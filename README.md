@@ -10,6 +10,7 @@ This repo serves as an example of what a partial JavaScript assessment may look 
 1. Open the `test-runner.html` file in a browser and notice the failing tests 
 1. Write the needed JavaScript in the `solutions.js` file to pass all the tests
 1. Add and commit for each completed problem
+1. When instructed, push your work with the command `git push origin YOUR_BRANCH_NAME`
 
 ## Problems
 
