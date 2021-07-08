@@ -6,6 +6,7 @@ This repo serves as an example of what a partial JavaScript assessment may look 
 
 1. Clone this repo
 1. Create a branch called `firstName_lastName` where you use YOUR first name and last name
+   1. **Note:** to do this, you can create a branch and move to it with the command `git checkout -b YOUR_BRANCH_NAME`
 1. Open the `test-runner.html` file in a browser and notice the failing tests 
 1. Write the needed JavaScript in the `solutions.js` file to pass all the tests
 1. Add and commit for each completed problem
